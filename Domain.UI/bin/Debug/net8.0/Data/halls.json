@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Зал 1",
+    "Rows": 8,
+    "SeatsPerRow": 12,
+    "VipRows": 2,
+    "VipMultiplier": 1.5,
+    "Id": "80355d77-623a-4b17-bab0-2c235452dc3e"
+  },
+  {
+    "Name": "Зал 2",
+    "Rows": 5,
+    "SeatsPerRow": 8,
+    "VipRows": 5,
+    "VipMultiplier": 2,
+    "Id": "49040cff-2807-47e5-ae1f-c702163133db"
+  }
+]

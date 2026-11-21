@@ -1,0 +1,24 @@
+[
+  {
+    "ShowId": "5c1df668-eb4a-4ec4-9276-da5e3fdf9dc6",
+    "Row": 3,
+    "SeatNumber": 8,
+    "Category": "Vip",
+    "Price": 360,
+    "CustomerName": "Дарина",
+    "Status": "Purchased",
+    "CreatedAt": "2026-11-21T10:20:03.100249+02:00",
+    "Id": "4553f895-a473-44f0-bc64-1421507f14bd"
+  },
+  {
+    "ShowId": "5c1df668-eb4a-4ec4-9276-da5e3fdf9dc6",
+    "Row": 5,
+    "SeatNumber": 8,
+    "Category": "Vip",
+    "Price": 360,
+    "CustomerName": "Дарина",
+    "Status": "Purchased",
+    "CreatedAt": "2026-11-21T10:20:37.2786949+02:00",
+    "Id": "64533c00-4352-49a3-958f-ddedd3bbc11d"
+  }
+]
